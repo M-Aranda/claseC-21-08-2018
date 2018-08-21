@@ -1,0 +1,7 @@
+C:\Users\maranda\Desktop\clase 21082018\clase218\clase218\bin\Debug\clase218.exe.config
+C:\Users\maranda\Desktop\clase 21082018\clase218\clase218\bin\Debug\clase218.exe
+C:\Users\maranda\Desktop\clase 21082018\clase218\clase218\bin\Debug\clase218.pdb
+C:\Users\maranda\Desktop\clase 21082018\clase218\clase218\obj\Debug\clase218.csprojResolveAssemblyReference.cache
+C:\Users\maranda\Desktop\clase 21082018\clase218\clase218\obj\Debug\clase218.csproj.CoreCompileInputs.cache
+C:\Users\maranda\Desktop\clase 21082018\clase218\clase218\obj\Debug\clase218.exe
+C:\Users\maranda\Desktop\clase 21082018\clase218\clase218\obj\Debug\clase218.pdb
